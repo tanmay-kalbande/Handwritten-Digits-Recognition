@@ -25,7 +25,7 @@ The CNN model has the following architecture:
 
 ## Results
 
-The model achieved a test accuracy of 99.2% after 20 epochs of training. The loss and accuracy were monitored during training and validation, and the model did not appear to overfit to the training set.
+The model achieved a test accuracy of 99.31% after 20 epochs of training. The loss and accuracy were monitored during training and validation, and the model did not appear to overfit to the training set.
 
 ## Conclusion
 
