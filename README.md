@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=github.com/tanmay-kalbande/Handwritten-Digits-Recognition&left_color=crimson&right_color=708090)
 # <font color='blue'> MNIST Digit Recognition using Convolutional Neural Networks (CNNs)!</font>
 
 This is a Convolutional Neural Network (CNN) model for classifying the MNIST dataset. The MNIST dataset consists of 70,000 images of handwritten digits, with 60,000 images in the training set and 10,000 images in the test set.
